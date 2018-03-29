@@ -1,0 +1,9 @@
+{
+  "test": {
+    "name": "dashboard",
+    "version": "0.1.0",
+    "description": "Vario Dashboard JS Development Environment",
+    "main": "index.js"
+  },
+  "api_v1_contract":{"info":{"date":"VarioSecure Infra","state":"東京都千代田区神田錦町1","username":"000-02 VarioCloud - 個別"},"state":1}
+}

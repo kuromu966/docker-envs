@@ -1,0 +1,9 @@
+{
+  "presets": ["env","react","@babel/preset-env"],
+  "plugins": [
+    ["babel-root-slash-import", {
+      "rootPathSuffix": "src/"
+    }],
+    ["babel-plugin-transform-runtime"],
+  ]
+}
